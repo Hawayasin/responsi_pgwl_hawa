@@ -1,12 +1,12 @@
-# responsi_pgwl_hawa
-Project Pemrograman Web Lanjut : Responsi Program Studi Sistem Informasi Geografis Tahun 2024
+# Responsi Program Studi Sistem Informasi Geografis Tahun 2024
+_
 NAMA : Yasin Manik Hawa 
 NIM : 22/506181/SV/22104
 KELAS : PGWL B
 
-___
-# Project : SAMBANGGO (Sambang Geoheritage Kulon Progo)
 __
+# Project : SAMBANGGO (Sambang Geoheritage Kulon Progo)
+_
 Platform ini merupakan visualisasi keberadaan Geoheritage untuk pelestarian dan perencanaan pembangunan, sehingga daat dijadikan acuan perencanaan pembangunan yang berkelanjutan sesuai dengan kondisi alam serta geologi batuan. WebGIS ini juga melakukan visualisasi 
 
 
